@@ -41,3 +41,87 @@ Before enrolling in this advanced Node.js course, participants should have succe
 - Intermediate JavaScript
 
 This comprehensive course is designed to empower participants with the skills and knowledge necessary to excel in Node.js development, making them proficient in building modern and scalable web applications.
+
+
+## Course Curriculum
+
+The JavaScript Advanced Level Course is designed for experienced developers looking to deepen their understanding of JavaScript. Covering topics such as testing, ECMAScript Objects, design patterns, JavaScript APIs, and practical project work, this course aims to equip participants with advanced skills for modern web development.
+
+### Day 1: JavaScript Overview and Advanced Concepts
+
+| Time       | Topic                                      |
+|------------|--------------------------------------------|
+| Morning    | - Overview of JavaScript                    |
+|            | - Advanced Working with Functions           |
+|            | - JavaScript Namespaces                      |
+| Afternoon  | - Prototypes                                |
+|            | - Error Handling                            |
+|            | - Modules in JavaScript                      |
+| Evening    | - Chaining JavaScript Methods               |
+|            | - Generators                                |
+|            | - Recap and Q&A                              |
+
+### Day 2: JavaScript Testing and HTML5/CSS3 Review
+
+| Time       | Topic                                      |
+|------------|--------------------------------------------|
+| Morning    | - Writing Tests First                       |
+|            | - JavaScript Testing Basics                 |
+|            | - Write and Run Tests                        |
+| Afternoon  | - Test Frameworks                            |
+|            | - Test-Driven Development (TDD)             |
+|            | - Automated Testing                          |
+|            | - HTML5 and CSS3 Review                      |
+| Evening    | - Overview of HTML5 & Semantic Tables       |
+|            | - HTML5 Forms and JavaScript                |
+|            | - Overview of CSS3 & Responsive Design      |
+|            | - Transitions, Transforms, Animations        |
+|            | - Syntax Review                              |
+|            | - Recap and Q&A                              |
+
+### Day 3: Exploring ECMAScript Objects, Design Patterns, and JavaScript APIs
+
+| Time       | Topic                                      |
+|------------|--------------------------------------------|
+| Morning    | - ECMAScript Objects and Core Concepts      |
+|            | - Function Arguments, Call, and Apply       |
+|            | - Window Object                             |
+|            | - Closures                                  |
+| Afternoon  | - Array Methods and Bind                    |
+|            | - Object.Create and Descriptors             |
+|            | - Web Storage vs. Cookies                   |
+|            | - Implementing Storage Operations           |
+| Evening    | - Design Patterns Introduction              |
+|            | - Common JS Design Patterns                 |
+|            | - Currying                                   |
+|            | - JavaScript APIs Overview                  |
+|            | - Hands-on with APIs: Canvas, File, Geolocation, Web Workers, Web Sockets, Server-Sent Events |
+
+### Day 4: Project-based activity
+
+| Time       | Topic                                      |
+|------------|--------------------------------------------|
+| Morning    | - Exploring Project Options                 |
+|            | - Understanding Project Scope               |
+|            | - Examination of Project Options             |
+| Afternoon  | - Choosing and Planning the Additional Project|
+|            | - Project Implementation Phase               |
+|            | - Troubleshooting and Optimization Strategies|
+|            | - Finalizing the Chosen Project             |
+| Evening    | - Project Submission                         |
+|            | - Q&A and Collaborative Discussion          |
+
+### Learning Outcomes
+
+Participants will gain expertise in:
+
+- Symbols and their use in internal operations
+- IntersectionObserver API for monitoring element appearance
+- Iterables and for...of loop
+- Iterators and manual iteration control
+- Generators and lazy evaluation
+- File handling using File API and FileReader API
+- Blobs in JavaScript and Blob API
+- Promise API to mitigate 'callback hell'
+- Storage API for client-only data storage
+
