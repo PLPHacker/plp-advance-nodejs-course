@@ -40,6 +40,19 @@ Before enrolling in this advanced Node.js course, participants should have succe
 - JavaScript Basics
 - Intermediate JavaScript
 
+### Tools
+
+To get started with the JavaScript and Node.js Mastery Course, ensure you have the following tools:
+
+1. **Coding IDE:** We recommend using Visual Studio Code (vscode) or Nodepad++ for an optimal development experience.
+
+2. **Downloadables:** Install [Node.js](https://nodejs.org/) on your machine. Node.js is an essential runtime for executing JavaScript on the server.
+
+3. **GitHub Account:** You will need a GitHub account to fork this entire repository to your own GitHub account. If you don't have one, you can [create a GitHub account here](https://github.com/).
+
+Ensure that you have these tools set up before starting the course to make the learning process smooth and efficient.
+
+
 This comprehensive course is designed to empower participants with the skills and knowledge necessary to excel in Node.js development, making them proficient in building modern and scalable web applications.
 
 
