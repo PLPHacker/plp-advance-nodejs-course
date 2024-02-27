@@ -45,6 +45,7 @@ This comprehensive course is designed to empower participants with the skills an
 
 ## Course Curriculum
 
+### Course Description
 The JavaScript Advanced Level Course is designed for experienced developers looking to deepen their understanding of JavaScript. Covering topics such as testing, ECMAScript Objects, design patterns, JavaScript APIs, and practical project work, this course aims to equip participants with advanced skills for modern web development.
 
 ### Day 1: JavaScript Overview and Advanced Concepts
