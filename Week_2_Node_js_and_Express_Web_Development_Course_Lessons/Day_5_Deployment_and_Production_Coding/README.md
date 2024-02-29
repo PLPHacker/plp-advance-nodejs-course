@@ -1,44 +1,41 @@
 # Day 5: Deployment and Production Coding
 
-## Morning
+## 1. Deploying the web app on a server:
 
-### 1. Deploying the Web App on a Server:
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Selecting a hosting provider and server for deployment | Understanding the process of selecting a hosting provider and server.|
+| Uploading and configuring the web app on the server | Proficiency in uploading and configuring a web app on the chosen server.|
+| Setting up domain and DNS configurations | Skills in setting up domain and DNS configurations for public access.|
 
-- Selecting a hosting provider and setting up an account
-- Configuring server environments for deployment
-- Deploying the web app using deployment tools or manual procedures
+## 2. Managing the running app in a production environment:
 
-### 2. Managing the Running App in a Production Environment:
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Monitoring and managing app performance in a production environment | Proficiency in monitoring and managing app performance in a production environment.|
+| Scaling strategies for handling increased traffic | Skills in implementing scaling strategies to handle increased traffic.|
+| Implementing security measures for a live application | Understanding and implementing security measures for a live application.|
 
-- Understanding production environment considerations
-- Monitoring and managing the running web app
-- Configuring server settings for optimal performance
+## 3. Conducting tests to ensure the app's functionality:
 
-## Afternoon
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Overview of testing methodologies for production environments | Understanding testing methodologies suitable for production environments.|
+| Creating and executing test cases for critical app functionality | Proficiency in creating and executing test cases for critical app functionality.|
+| Identifying and addressing performance bottlenecks | Identification and addressing of performance bottlenecks through testing.|
 
-### 3. Conducting Tests to Ensure the App's Functionality:
+## 4. Deploying the final web app for public access:
 
-- Overview of testing methodologies (unit tests, integration tests, end-to-end tests)
-- Writing and executing tests for critical functionalities
-- Identifying and addressing issues found during testing
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Finalizing configurations for public access | Skills in finalizing configurations for public access to the web app.|
+| Conducting a final round of testing before public release | Conducting a thorough final round of testing before public release.|
+| Announcing and promoting the public release of the web app | Strategies for announcing and promoting the public release of the web app.|
 
-### 4. Deploying the Final Web App for Public Access:
+## 5. Learning Outcomes:
 
-- Configuring DNS settings for domain mapping
-- Securing the deployed web app with HTTPS
-- Finalizing deployment settings for public access
+- Understanding deployment processes and server management.
+- Developing skills in conducting tests for application functionality.
+- Gaining experience in deploying web apps for public access.
 
-## Learning Outcomes:
-
-Participants will:
-
-- Understand Deployment Processes and Server Management:
-  - Gain insights into deploying web applications on servers and managing them in a production environment.
-
-- Develop Skills in Conducting Tests for Application Functionality:
-  - Acquire proficiency in writing and executing tests to ensure the functionality of the web application.
-
-- Gain Experience in Deploying Web Apps for Public Access:
-  - Hands-on experience in deploying the final web app, making it accessible to the public.
-
-This day is designed to provide participants with practical knowledge and skills for deploying web applications in a production environment, managing servers, conducting tests, and making web apps accessible to the public.
+This session on Deployment and Production Coding is designed to provide participants with practical knowledge and skills in deploying web applications, managing them in production environments, conducting effective testing, and releasing applications for public access.

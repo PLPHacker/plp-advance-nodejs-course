@@ -1,103 +1,89 @@
 # Day 4: Project-based Activity
 
-## Morning
+## 1. Exploring Project Options:
 
-### 1. Exploring Project Options:
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Identifying potential project options | Ability to identify diverse project options.            |
+| Assessing project feasibility         | Evaluation skills for project feasibility.             |
+| Initial exploration and brainstorming | Initial exploration and brainstorming techniques.     |
 
-- Introduction to various project options
-- Identifying potential project ideas
-- Considering factors such as complexity, learning objectives, and relevance
+## 2. Understanding Project Scope:
 
-### 2. Understanding Project Scope:
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Defining and clarifying project scope | Proficiency in defining and clarifying project scope.  |
+| Setting project goals and objectives  | Skills in setting clear project goals and objectives.  |
+| Identifying project constraints and limitations | Identification of project constraints and limitations.|
 
-- Defining project scope and objectives
-- Setting realistic goals and expectations
-- Identifying potential challenges and constraints
+## 3. Examination of Project Options:
 
-### 3. Examination of Project Options:
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| In-depth examination of shortlisted project options | Ability to conduct an in-depth examination of project options.|
+| Risk assessment and mitigation strategies | Proficiency in identifying and mitigating project risks.|
+| Initial resource estimation            | Initial estimation of required resources.              |
 
-- In-depth exploration of selected project options
-- Group discussion on the pros and cons of each option
-- Initial feasibility assessment
+## 4. Choosing and Planning the Additional Project:
 
-## Afternoon
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Finalizing the chosen project option   | Ability to make informed decisions on project selection.|
+| Detailed project planning and roadmap  | Proficiency in creating detailed project plans and roadmaps.|
+| Allocation of tasks and responsibilities | Allocation of tasks and responsibilities for efficient project execution.|
 
-### 4. Choosing and Planning the Additional Project:
+## 5. Project Implementation Phase:
 
-- Selection of the final project based on group consensus
-- Breakdown of project tasks and milestones
-- Time estimation and resource allocation
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Execution of planned project tasks     | Hands-on experience in executing planned project tasks.|
+| Collaboration and communication within the team | Effective collaboration and communication within the team.|
+| Regular progress monitoring and updates | Proficiency in monitoring and providing regular project updates.|
 
-### 5. Project Implementation Phase:
+## 6. Troubleshooting and Optimization Strategies:
 
-- Hands-on coding and development
-- Regular check-ins and progress assessments
-- Collaboration and communication within the project team
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Identifying and addressing project issues | Skills in identifying and addressing project issues.   |
+| Optimization techniques for improved performance | Optimization techniques for enhanced project performance.|
+| Strategies for overcoming common challenges | Strategies to overcome common project challenges.     |
 
-### 6. Troubleshooting and Optimization Strategies:
+## 7. Finalizing the Chosen Project:
 
-- Identifying and addressing common project issues
-- Strategies for optimizing code and improving performance
-- Debugging techniques and tools
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Finalizing project deliverables        | Proficiency in finalizing project deliverables.        |
+| Conducting internal reviews and testing | Skills in conducting effective internal reviews and testing.|
+| Ensuring alignment with project scope and goals | Ensuring alignment with project scope and goals.     |
 
-### 7. Finalizing the Chosen Project:
+## 8. Project Submission:
 
-- Integration of final features and functionalities
-- User testing and feedback collection
-- Preparing for project submission
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Preparing and packaging project for submission | Ability to prepare and package a project for submission.|
+| Submission protocols and best practices | Understanding submission protocols and best practices.|
+| Ensuring completeness and adherence to requirements | Ensuring completeness and adherence to submission requirements.|
 
-## Evening
+## 9. Q&A and Collaborative Discussion:
 
-### 8. Project Submission:
+| Content                               | Learning Outcomes                                      |
+|---------------------------------------|--------------------------------------------------------|
+| Open floor for questions and discussions | Engaging in open discussions and Q&A.                  |
+| Collaborative review of project experiences | Collaborative review of project experiences within the group.|
+| Sharing insights and lessons learned   | Sharing valuable insights and lessons learned.         |
 
-- Guidelines for preparing and submitting the project
-- Presentation of the project to the group
-- Q&A and feedback session
+## Advanced JavaScript Concepts and APIs Covered:
 
-### 9. Q&A and Collaborative Discussion:
+Participants will gain expertise in:
 
-- Open floor for questions and clarifications
-- Collaborative discussion on project experiences
-- Sharing insights and lessons learned
+- Symbols and their use in internal operations.
+- IntersectionObserver API for monitoring element appearance.
+- Iterables and for...of loop.
+- Iterators and manual iteration control.
+- Generators and lazy evaluation.
+- File handling using File API and FileReader API.
+- Blobs in JavaScript and Blob API.
+- Promise API to mitigate 'callback hell'.
+- Storage API for client-only data storage.
 
-## Learning Outcomes:
-
-Participants will gain expertise in the following areas:
-
-- Symbols and their use in internal operations:
-  - Understanding the Symbol data type in JavaScript
-  - Exploring use cases for Symbols in internal operations
-
-- IntersectionObserver API for monitoring element appearance:
-  - Overview of the IntersectionObserver API
-  - Practical implementation of monitoring element appearance in a web page
-
-- Iterables and for...of loop:
-  - Understanding iterables in JavaScript
-  - Implementing and utilizing the for...of loop for iteration
-
-- Iterators and manual iteration control:
-  - Exploring iterators and manual control over iteration
-  - Use cases for manual iteration in specific scenarios
-
-- Generators and lazy evaluation:
-  - Introduction to generators in JavaScript
-  - Implementing lazy evaluation using generators
-
-- File handling using File API and FileReader API:
-  - Overview of File API and FileReader API
-  - Hands-on experience with file handling operations
-
-- Blobs in JavaScript and Blob API:
-  - Understanding Blobs in JavaScript
-  - Practical applications of the Blob API
-
-- Promise API to mitigate 'callback hell':
-  - Explanation of the Promise API
-  - Mitigating callback hell through asynchronous programming with promises
-
-- Storage API for client-only data storage:
-  - Overview of the Storage API
-  - Implementing client-only data storage using localStorage or sessionStorage
-
-This project-based day aims to provide participants with a practical application of the concepts learned throughout the workshop, fostering collaborative learning and real-world problem-solving skills.
+This project-based activity is designed to provide participants with practical skills and knowledge while working on real-world projects, focusing on a range of advanced JavaScript concepts and APIs.
