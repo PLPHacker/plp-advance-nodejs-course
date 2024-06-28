@@ -1,0 +1,29 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Node.js Redis App</title>
+</head>
+<body>
+  <h1>Welcome to Node.js Redis App</h1>
+  <p>This is a simple Node.js application that interacts with a Redis server.</p>
+  
+  <!-- Form with hidden input fields -->
+  <form id="dataForm" action="/data" method="POST">
+    <!-- Hidden input field with a predefined value -->
+    <input type="hidden" name="message" value="Hello, Redis!">
+    <button type="submit">Store Data in Redis</button>
+  </form>
+  
+  <p>Data stored in Redis: <span id="data"></span></p>
+
+  <script>
+    // Fetch data from the server and display it
+    fetch('/data')
+      .then(response => response.text())
+      .then(data => document.getElementById('data').textContent = data);
+  </script>
+</body>
+</html>
